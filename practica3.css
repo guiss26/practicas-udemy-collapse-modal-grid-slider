@@ -1,0 +1,14 @@
+
+/*button{ POSIBLE AYUDA PARA PRÁCTICAS
+    display: block;
+    width: 100%;
+    background-color: aqua;
+    border-radius: 0 0 5px 0;
+}*/
+
+@media (min-width:992px) {
+    .alto{
+        height: 100vh;
+
+    }
+}
